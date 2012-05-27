@@ -1,2 +1,2 @@
-ex1
 *.dSYM
+valgrind*
